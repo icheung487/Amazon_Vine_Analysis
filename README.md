@@ -2,7 +2,7 @@
 # Overview of the analysis: Explain the purpose of this analysis.
 This project was working with Sellby, an online e-commerce company.  We were to analyze their reviews written by customers who paid to write a review.  This program was called Amazin Vine, a service that allows companies to seed products to customers for free and in return they would write a review. 
 
-For this project, we decided to review camera reviews, using PySpark to perform an ETL process.  Then we used Jupyter notebook to analyze the dataset. 
+For this project, we decided to review camera dataset, using PySpark to perform an ETL process.  Then we used Jupyter notebook to analyze the dataset. 
 
 # Results: Using bulleted lists and images of DataFrames as support, address the following questions:
 

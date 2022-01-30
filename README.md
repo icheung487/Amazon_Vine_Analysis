@@ -7,8 +7,8 @@ For this project, we decided to review camera reviews, using PySpark to perform 
 # Results: Using bulleted lists and images of DataFrames as support, address the following questions:
 
 * How many Vine reviews and non-Vine reviews were there?
-* 607 Vine Customers
-* 50,522 Non-Vine Customers 
+    * 607 Vine Customers
+    * 50,522 Non-Vine Customers 
 
 ![image](https://github.com/icheung487/Amazon_Vine_Analysis/blob/main/Resources/Total_Number_of_Vine.png)
 

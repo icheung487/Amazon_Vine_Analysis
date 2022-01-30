@@ -7,15 +7,21 @@ For this project, we decided to review camera reviews, using PySpark to perform 
 # Results: Using bulleted lists and images of DataFrames as support, address the following questions:
 
 * How many Vine reviews and non-Vine reviews were there?
+* 607 Vine Customers
+* 50,522 Non-Vine Customers 
 
 ![image](https://github.com/icheung487/Amazon_Vine_Analysis/blob/main/Resources/Total_Number_of_Vine.png)
 
 
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+There was 257 Vine customers vs. 25,220 organic customers that rated gave a 5 stars.  There could be many variables but it's clear that organically this does well. 
+
 
 ![image](https://github.com/icheung487/Amazon_Vine_Analysis/blob/main/Resources/Total_Number_with_5_Stars.png)
 
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
+As shown below, 42% of the reviews were from Vine reviews and 49% non-vine reviews.  It was close to even but there was slightly more organic reviews. 
 
 ![image](https://github.com/icheung487/Amazon_Vine_Analysis/blob/main/Resources/Percentage_Vine_reviews.png)
 
